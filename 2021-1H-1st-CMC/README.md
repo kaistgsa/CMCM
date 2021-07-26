@@ -83,10 +83,10 @@
 
 
 ### 주요 이슈 전달 및 의견 수렴
-1. 교내 통과 버스 노선 설치 
+1. [교내 통과 버스 노선 설치 ](https://portal.kaist.ac.kr/ennotice/student_notice/11626229661833)
 2. 포카스온 사업 중단 예고 
-3. 인성장학금 선정 
-4. 전문연구요원 유연 근무제 도입 
+3. [인성장학금 선정](https://portal.kaist.ac.kr/ennotice/student_notice/11626891462720)
+4. [전문연구요원 유연 근무제 도입 ](https://portal.kaist.ac.kr/ennotice/student_notice/11626242770606)
 5. 휴학제도 유연화 
 
 
