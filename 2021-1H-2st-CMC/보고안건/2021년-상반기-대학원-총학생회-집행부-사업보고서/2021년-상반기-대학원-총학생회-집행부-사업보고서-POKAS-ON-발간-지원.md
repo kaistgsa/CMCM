@@ -25,7 +25,9 @@
 | 2021-08-10 ~ 2021-08-20 | POKAS ON 가을호 기고글 모집 | [GSA홈페이지](https://gsa.kaist.ac.kr/notice/185252)<br>[KAIST 포탈](https://portal.kaist.ac.kr/ennotice/student_notice/11628567407449) |
 
 ## 장소
-- 없음
+- 온라인 매거진: http://pokas.gsalab.co.kr/magazine/m_list?type=0
+- 오프라인 매거진 가판대 위치
+    ![POKAS ON 가판대 위치](../../resources/POKAS_ON-가판대-위치.jpg)
 
 ## 사업 진행 결과
 
@@ -33,26 +35,19 @@
     - KAIST 구성원을 대상으로 GSA 홈페이지 내 서비스를 통한 기고글 [상시 모집](https://gsa.kaist.ac.kr/serviceForm?serviceId=819)을 진행하고 있음.
         - 3월호 4편, 6월호 4편으로 총 8편을 모집함.
     - 모집된 글의 분량 및 다양성을 고려하여 POKAS ON에 실을 기사를 확정함.
-
 2. 검토 및 발간 작업
     - 오탈자 및 내용 확인 등 POKAS ON 기고글로서의 적절성을 검토함.
     - 6월호의 경우 KAIST에서 표지 모델의 섭외 및 인터뷰를 진행함.
     - POKAS ON 발간처(윌커뮤니티)와 협력 하에 계간지 완성 및 인쇄를 진행함.
-
 3. 홍보 및 배포
     - 발간된 POKAS ON 배포 및 홍보를 진행함.
         - 서측 학생회관을 포함한 교내 10개 가판대를 통해 배포함.
         - 3월호 235부, 6월호 216부 배포
-        - ![POKAS ON 가판대 위치](../../resources/POKAS_ON-가판대-위치.jpg)
-    - 홍보물
-        - 2021 상반기에 발간된 POKAS ON: http://pokas.gsalab.co.kr/
-        - 
-
 4. 원고료 지급
     - 기고자를 대상으로 원고료 지급 및 POKAS ON 인쇄본을 증정함.
         - 윌커뮤니티에서 지급하는 원고료에 부족분을 더해 10만 원으로 맞춰 지급함.
+5. 협력
     - 6월 포스텍에서 POKAS ON 발간 회의를 가졌으며, 앞으로 방향성 및 컨텐츠 기획을 진행함.
-
 
 ## 결산: 총 예산 2,400,000 원 중 657,000 원 집행
 - 일반회계: 0 원
