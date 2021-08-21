@@ -26,7 +26,7 @@
 
 ## 장소
 - 온라인 매거진: http://pokas.gsalab.co.kr/magazine/m_list?type=0
-- 오프라인 매거진 가판대 위치
+- 오프라인 매거진 가판대 위치  
     ![POKAS ON 가판대 위치](../../resources/POKAS_ON-가판대-위치.jpg)
 
 ## 사업 내용
