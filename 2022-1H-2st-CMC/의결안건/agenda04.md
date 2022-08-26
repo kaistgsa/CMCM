@@ -22,7 +22,7 @@
 | [KAMF 원총 홍보부스](agenda04/홍보_KAMF원총부스.md)                  | 홍보국 | 9월       | 오프라인 홍보 채널로 대학원 총학생회 활동 홍보                                                                                             | 1,635,000  |
 
 
-[2022년 하반기 대학원총학생회 예산(안) - 2022년 가을학기 개강일 ~ 2023년 봄학기 개강 전일](https://docs.google.com/spreadsheets/d/1FWZdw0XBJOURauGaS9b0Hd0dU2R9FnGYUGDX85C0WDw/edit?usp=sharing)
+[2022년 하반기 대학원총학생회 예산(안) - 2022년 가을학기 개강일 ~ 2023년 봄학기 개강 전일](https://docs.google.com/spreadsheets/d/145vo-l-76qqtqtzHa5YAejJSMc0vCDaFX0nNvvcRRG4/edit?usp=sharing)
 
 [\[첨부\]연구환경실태조사 위탁용역 타당성 보고서](https://docs.google.com/document/d/1sEmoJMzEDi3zSrlZlh0eqTqBl7lkIFzqcmDh90DqmWE/edit?usp=sharing)
 
