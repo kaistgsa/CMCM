@@ -29,4 +29,4 @@
 [\[첨부\]복합기 장비구입 타당성 보고서](https://docs.google.com/document/d/1-Cwjxk0IbfhIWonfikuhnzLP8lRRmEWOescdom8U58g/edit?usp=sharing)
 
 ## 결과:
-- 찬성 XX명 / 반대 XX명 / 기권 XX명 / 배석 XX명
+- 찬성 28명 / 반대 0명 / 기권 1명 / 배석 29명
