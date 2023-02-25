@@ -23,4 +23,4 @@
 [2023년 상반기 대학원총학생회 예산(안) - 2023년 봄학기 개강일 ~ 2023년 가을학기 개강 전일](https://docs.google.com/spreadsheets/d/1x2zZAmoIFILpFTA9YCONMJv8IBFt0f4LqnBd60Qdavs/edit#gid=0)
 
 ## 결과
-- 찬성 31명 / 반대 0명 / 기권 0명 / 배석 31명
+- 찬성 28명 / 반대 0명 / 기권 0명 / 배석 28명
