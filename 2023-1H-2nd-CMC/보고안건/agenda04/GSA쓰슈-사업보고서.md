@@ -53,9 +53,9 @@
 
 ## 사진
 
-<img src="./쓰슈-1.jpg" width="600px" title="쓰슈 홍보 포스터-국문"/>
-<img src="./쓰슈-2.jpg" width="600px" title="쓰슈 홍보 포스터-영문"/>
-<img src="./쓰슈-3.jpg" width="600px" title="쓰슈 홈페이지"/>
+<img src="../../resource/쓰슈-1.jpg" width="600px" title="쓰슈 홍보 포스터-국문"/>
+<img src="../../resource/쓰슈-2.jpg" width="600px" title="쓰슈 홍보 포스터-영문"/>
+<img src="../../resource/쓰슈-3.jpg" width="600px" title="쓰슈 홈페이지"/>
 
 ## 경품 당첨자
 없음
