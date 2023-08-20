@@ -9,3 +9,6 @@
 ### 참고
  - [학생회칙 변경(안)](https://docs.google.com/spreadsheets/d/1TAcUbPVtAUHjAfrR7Z8t7M5CEXuZoRdSAygKa3H1nCk/edit?usp=sharing)
  - 학생회칙 제109조에 따라 회칙 변경의 효력은 개정안이 공포된 날로부터 15일 이후 발생함.
+
+## 결과:
+- 찬성 00명 / 반대 0명 / 기권 0명 / 배석 00명
