@@ -21,7 +21,7 @@
 ## 개요
 
 - 일시: 2024-08-XX
-- 장소: 온라인 (Zoom)
+- 장소: 온라인 (Zoom) https://kaist.zoom.us/j/81963551384?pwd=a3NMNYOQH8JnXMDIDVXGiuyiJQapYN.1
 - 소집 요구자: 제52대 대학원 총학생회 NON-STOP 총학생회장 남궁민상
 
 ## 회의 순서
