@@ -1,9 +1,9 @@
 2024년 상반기 대학원 총학생회 학생회계 결산
 ===
 
-[제52대 대학원 총학생회 상반기 예산안 결산](https://docs.google.com/spreadsheets/d/1jBA0qT9liKVn1pfox-w7LhwsBTeH8IqYnCx0WFv0PIg/edit#gid=0) <br/>
+[제52대 대학원 총학생회 상반기 예산안 결산]() <br/>
 
-[제52대 대학원 총학생회 상반기 학생회계 집행 내역](https://docs.google.com/spreadsheets/d/1ICW8uQ5gfB8fpP7M_6faG2t8Wg5q6P0DL9qbb4MasBM/edit?usp=sharing) <br/>
+[제52대 대학원 총학생회 상반기 학생회계 집행 내역]() <br/>
 
 ## 참고
 |  회칙 조항  |  내용 |
