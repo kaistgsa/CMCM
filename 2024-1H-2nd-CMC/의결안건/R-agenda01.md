@@ -25,4 +25,5 @@
 [2024년 하반기 대학원총학생회 예산(안) - 2024년 가을학기 개강일 ~ 2025년 봄학기 개강 전일](https://docs.google.com/spreadsheets/d/1MO899CWRLQWh1xDRbUNOq-lcBMLRvTsNpIvCERT7z0Y/edit?usp=sharing)
 
 ## 결과
-- 찬성 0명 / 반대 0명 / 기권 0명 / 배석 0명
+- 찬성 31명 / 반대 0명 / 기권 1명 / 배석 32명
+- 경영대학 서울캠퍼스 대표님 자리비움
