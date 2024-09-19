@@ -20,7 +20,7 @@
 - [대학원 학생회칙](https://github.com/kaistgsa/organization-bylaw/blob/main/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90-%EB%8C%80%ED%95%99%EC%9B%90-%ED%95%99%EC%83%9D%ED%9A%8C%EC%B9%99.md)에 따르면, 학생회계를 사용하고자 하는 총학생회장단, 집행부, 자치단체와 독립집행학과는 사전에 사업계획서와 예산안을 제출하고 중앙운영위원회의 인준을 받아야 함.
 - 경영대학 서울캠퍼스는 2023 하반기부터 독립집행학과로 지정되었고, 이에 제출한 사업계획/예산안에 따라 경영대학 학생 중 학생회비를 납부한 학생의 수만큼 학생회비를 집행할 수 있게 되었음. 경영대학 서울캠퍼스의 경우 2024년 상반기에 550명의 학우가 학생회비를 납부하였기에 총 18,700,000원 안에서 예산안을 짤 수 있음.
 - 본래 하반기 예산안은 상반기 2차 중운위에서 의결받고 있지만, 경영대학 서울캠퍼스의 경우 2024년 상반기 2차 중운위 당시에 차기 회장단이 정해지지 않은 상태였음. 이에 임시 중운위를 개최하고 2024 하반기 사업계획서/예산안에 대한 인준을 받고자 함.
-- 중운위원 임기를 막 시작하여 예산 인준을 처음 해보시는 분들은 [대학원 총학생회 예산운영규정](#https://github.com/kaistgsa/organization-bylaw/blob/main/%EB%8C%80%ED%95%99%EC%9B%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%98%88%EC%82%B0%EC%9A%B4%EC%98%81%EA%B7%9C%EC%A0%95.md)과 [예결산 심의 안내 PPT](https://docs.google.com/presentation/d/1m9LkYJBSrRqpGI5_IuzGBla9A4ht9Rjv9fvuuChHF54/edit?usp=sharing)를 참고해주시기 바랍니다.
+- 중운위원 임기를 막 시작하여 예산 인준을 처음 해보시는 분들은 [대학원 총학생회 예산운영규정](https://github.com/kaistgsa/organization-bylaw/blob/main/%EB%8C%80%ED%95%99%EC%9B%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%98%88%EC%82%B0%EC%9A%B4%EC%98%81%EA%B7%9C%EC%A0%95.md)과 [예결산 심의 안내 PPT](https://docs.google.com/presentation/d/1m9LkYJBSrRqpGI5_IuzGBla9A4ht9Rjv9fvuuChHF54/edit?usp=sharing)를 참고해주시기 바랍니다.
 
 ## 서면 의결 참여자 보고
 - 총 33명, 정족수 17명
